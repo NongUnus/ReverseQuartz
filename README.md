@@ -58,7 +58,7 @@ ReverseQuartz เป็น Minecraft Plugin สำหรับ PaperMC/Spigot �
    mvn clean package
    ```
    
-   ### บน Windows (Use Command Prompt or PowerShell)
+   ### บน Windows (เปิด Command Prompt or PowerShell)
    ```
    mvn clean package
    ```
