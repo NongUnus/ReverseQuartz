@@ -1,0 +1,5 @@
+name: ReverseQuartz
+main: com.nongunus.reversequartz.ReverseQuartz
+version: 1.0
+api-version: 1.21
+description: Plugin to craft Nether Quartz from Quartz Block
