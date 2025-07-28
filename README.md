@@ -4,8 +4,8 @@ ReverseQuartz is a Minecraft plugin for PaperMC/Spigot that adds a shapeless cra
 
 ## Requirements
 
-- Java 17 or later
-- Minecraft server: PaperMC or Spigot version 1.21.8 or later
+- Java 8 or later
+- Minecraft server: PaperMC or Spigot version 1.13 or later
 
 ## Features
 
@@ -39,8 +39,8 @@ ReverseQuartz เป็น Minecraft Plugin สำหรับ PaperMC/Spigot �
 
 ## Requirements
 
-- Java 17 หรือใหม่กว่า
-- Minecraft server: PaperMC หรือ Spigot เวอร์ชัน 1.21.8 ขึ้นไป
+- Java 8 หรือใหม่กว่า
+- Minecraft server: PaperMC หรือ Spigot เวอร์ชัน 1.13 ขึ้นไป
 
 
 ## Feature
@@ -58,7 +58,7 @@ ReverseQuartz เป็น Minecraft Plugin สำหรับ PaperMC/Spigot �
    mvn clean package
    ```
    
-   ### บน Windows (เปิด Command Prompt or PowerShell)
+   ### บน Windows (เปิด Command Prompt หรือ PowerShell)
    ```
    mvn clean package
    ```
@@ -74,9 +74,13 @@ ReverseQuartz เป็น Minecraft Plugin สำหรับ PaperMC/Spigot �
 
 This project was made just for fun to solve the problem of organizing items in Minecraft SMP with friends, especially when wanting to separate Nether Quartz from Quartz Blocks more easily.
 
+Test working with Minecraft versions 1.13.2, 1.17, 1.18, 1.20.4, 1.20.5, 1.21.1, and 1.21.8.
+
 (Thai)
 
 โปรเจกต์นี้ทำขึ้นเล่นๆ เพื่อแก้ปัญหาเวลาจัดของในเกม Minecraft แบบ SMP กับเพื่อน โดยเฉพาะตอนต้องการแยก Quartz ออกจาก Quartz Block ให้สะดวกขึ้นเท่านั้นครับ
+
+ทดสอบแล้วใช้ได้กับเวอร์ชั่น 1.13.2, 1.17, 1.18, 1.20.4, 1.20.5, 1.21.1, และ 1.21.8
 
 
    
