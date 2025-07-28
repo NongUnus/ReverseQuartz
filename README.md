@@ -2,6 +2,10 @@
 
 ReverseQuartz is a Minecraft plugin for PaperMC/Spigot that adds a shapeless crafting recipe allowing players to craft **Nether Quartz** from **Quartz Blocks**.
 
+![](images/Screenshot_20250728_112847.png)
+
+![](images/Screenshot_20250728_112916.png)
+
 ## Requirements
 
 - Java 8 or later
